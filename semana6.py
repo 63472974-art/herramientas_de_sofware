@@ -15,3 +15,5 @@ print("semestre:", semestre)
 
 # COMADO 
 print("hola mundo")
+
+print("SISTEMA FUERA DE SERVICIO")
