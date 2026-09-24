@@ -15,3 +15,12 @@ print("semestre:", semestre)
 
 # COMADO 
 print("hola mundo")
+cbsabcjanc
+fegfw
+hasattrRGHDF
+XCFH
+EGFD
+FGD
+RH
+FDG
+ZDJEA
