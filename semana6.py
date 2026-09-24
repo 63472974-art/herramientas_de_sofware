@@ -13,4 +13,5 @@ print("Altura:", altura)
 print("Carrera:", carrera)
 print("semestre:", semestre)
 
-# COMADO
+# COMADO 
+print("hola mundo")
